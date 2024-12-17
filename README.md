@@ -19,9 +19,8 @@ A simple **Student Grade Tracker** program developed in **Java**. This applicati
 ## How to Run the Program
 
 1. Ensure **Java Development Kit (JDK)** is installed on your system.
-2. Clone or download this repository:
-   ```bash
-   git clone https://github.com/your-username/StudentGradeTracker.git
+
+
 # compile the program
 javac StudentGradeTracker.java
 
